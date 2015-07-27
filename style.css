@@ -74,3 +74,13 @@
   width: 100px;
   z-index: 4;
 }
+
+.success-score {
+  font-size: larger;
+  color: green;
+}
+
+.fails-score {
+  font-size: larger;
+  color: red;
+}
